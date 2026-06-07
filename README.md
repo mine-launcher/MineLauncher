@@ -18,7 +18,7 @@
 
 | Платформа | Файл | Загрузка |
 |---|---|---|
-| Windows 10 / 11 (64-bit) | `MineLauncher.exe` v3.0.16 | [minelauncher.me](https://minelauncher.me/api/updates/download) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases/latest) |
+| Windows 10 / 11 (64-bit) | `MineLauncher.exe` v3.0.18 | [minelauncher.me](https://minelauncher.me/api/updates/download) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases/latest) |
 
 Лаунчер портативный — один `.exe` без установщика. Обновляется автоматически при запуске.
 
