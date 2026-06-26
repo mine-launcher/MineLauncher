@@ -8,7 +8,7 @@
 
 [**⬇ Скачать для Windows**](https://minelauncher.me/api/updates/download) · [**⬇ Скачать APK**](https://minelauncher.me/api/updates/download?platform=android) · [Сайт](https://minelauncher.me) · [Релизы](https://github.com/mine-launcher/MineLauncher/releases/latest) · [Сервера Майнкрафт](https://monitoringminecraft.com)
 
-7 000+ установок
+8 000+ установок
 
 </div>
 
