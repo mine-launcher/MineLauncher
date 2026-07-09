@@ -8,7 +8,7 @@
 
 [**⬇ Скачать для Windows**](https://minelauncher.me/api/updates/download) · [**⬇ Скачать APK**](https://minelauncher.me/api/updates/download?platform=android) · [Сайт](https://minelauncher.me) · [Релизы](https://github.com/mine-launcher/MineLauncher/releases/latest) · [Сервера Майнкрафт](https://monitoringminecraft.com)
 
-8 000+ установок
+9 000+ установок
 
 </div>
 
@@ -18,7 +18,7 @@
 
 | Платформа | Файл | Загрузка |
 |---|---|---|
-| Windows 10 / 11 (64-bit) | `MineLauncher.exe` v3.2.4 | [minelauncher.me](https://minelauncher.me/api/updates/download) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases/latest) |
+| Windows 10 / 11 (64-bit) | `MineLauncher.exe` v3.2.9 | [minelauncher.me](https://minelauncher.me/api/updates/download) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases/latest) |
 | Android 8+ | `MineLauncher.apk` | [minelauncher.me](https://minelauncher.me/api/updates/download?platform=android) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases) |
 
 Лаунчер портативный — один `.exe` без установщика, на Андроид — обычный APK. Обновляется автоматически при запуске.
