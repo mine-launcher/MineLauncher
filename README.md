@@ -18,7 +18,7 @@
 
 | Платформа | Файл | Загрузка |
 |---|---|---|
-| Windows 10 / 11 (64-bit) | `MineLauncher.exe` v3.3.0 | [minelauncher.me](https://minelauncher.me/api/updates/download) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases/latest) |
+| Windows 10 / 11 (64-bit) | `MineLauncher.exe` v3.3.1 | [minelauncher.me](https://minelauncher.me/api/updates/download) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases/latest) |
 | Android 8+ | `MineLauncher.apk` | [minelauncher.me](https://minelauncher.me/api/updates/download?platform=android) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases) |
 
 Лаунчер портативный — один `.exe` без установщика, на Андроид — обычный APK. Обновляется автоматически при запуске.
