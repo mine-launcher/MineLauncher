@@ -8,7 +8,7 @@
 
 [**⬇ Скачать для Windows**](https://minelauncher.me/api/updates/download) · [**⬇ Скачать APK**](https://minelauncher.me/api/updates/download?platform=android) · [Сайт](https://minelauncher.me) · [Релизы](https://github.com/mine-launcher/MineLauncher/releases/latest) · [Сервера Майнкрафт](https://monitoringminecraft.com)
 
-13 000+ установок
+14 000+ установок
 
 </div>
 
@@ -18,7 +18,7 @@
 
 | Платформа | Файл | Загрузка |
 |---|---|---|
-| Windows 10 / 11 (64-bit) | `MineLauncher.exe` v3.3.13 | [minelauncher.me](https://minelauncher.me/api/updates/download) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases/latest) |
+| Windows 10 / 11 (64-bit) | `MineLauncher.exe` v3.3.15 | [minelauncher.me](https://minelauncher.me/api/updates/download) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases/latest) |
 | Android 8+ | `MineLauncher.apk` | [minelauncher.me](https://minelauncher.me/api/updates/download?platform=android) · [GitHub Releases](https://github.com/mine-launcher/MineLauncher/releases) |
 
 Лаунчер портативный — один `.exe` без установщика, на Андроид — обычный APK. Обновляется автоматически при запуске.
@@ -26,7 +26,7 @@
 ## Возможности
 
 - **Без лицензии** — не нужно покупать игру: ввёл любой ник и играешь
-- **Все версии Майнкрафта** — 26.2, 1.21.11, 26.1.2, 1.21.4, 1.21.8 и все остальные
+- **Все версии Майнкрафта** — 26.2, 1.21.11, 26.1.2, 1.21.8, 1.21.4 и все остальные
 - **Моды и шейдеры в один клик** — Fabric, NeoForge, Forge, OptiFine: 40+ встроенных модов, без инсталлеров
 - **Java автоматически** — лаунчер сам скачивает нужную Java под каждую версию игры
 - **Сервера прямо в лаунчере** — встроенный мониторинг: название, онлайн, версия, подключение по клику
