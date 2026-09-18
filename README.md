@@ -27,7 +27,7 @@
 
 - **Без лицензии** — не нужно покупать игру: ввёл любой ник и играешь
 - **Все версии Майнкрафта** — 26.3, 26.2, 1.21.11, 26.1.2, 26.1.1 и все остальные
-- **Моды и шейдеры в один клик** — Fabric, NeoForge, Forge, OptiFine: 40+ встроенных модов, без инсталлеров
+- **Моды и шейдеры в один клик** — Fabric, NeoForge, Quilt, OptiFine: 40+ встроенных модов, без инсталлеров
 - **Java автоматически** — лаунчер сам скачивает нужную Java под каждую версию игры
 - **Сервера прямо в лаунчере** — встроенный мониторинг: название, онлайн, версия, подключение по клику
 - **Без рекламы** — никаких баннеров, навязанных серверов и стороннего ПО
@@ -47,7 +47,7 @@
 ## FAQ
 
 **Как играть в Майнкрафт без лицензии?**
-Скачай MineLauncher, введи любой ник и нажми «Играть». Одиночная игра, моды, Fabric, NeoForge, Forge — всё работает. На сервера тоже можно заходить — большинство крупных проектов поддерживают игроков без лицензии.
+Скачай MineLauncher, введи любой ник и нажми «Играть». Одиночная игра, моды, Fabric, NeoForge, Quilt — всё работает. На сервера тоже можно заходить — большинство крупных проектов поддерживают игроков без лицензии.
 
 **Как скачать Майнкрафт на Андроид бесплатно?**
 В разделе «Скачать» выбери вкладку Android и установи APK. MineLauncher на телефоне умеет то же самое — любой ник, все версии, моды и сборки в один клик.
@@ -72,6 +72,6 @@
 
 ---
 
-<sub>MineLauncher is a free Minecraft launcher for Windows and Android: every game version, one-click mods and shaders (Fabric, NeoForge, Forge, OptiFine), built-in server browser, auto Java setup. No license required.</sub>
+<sub>MineLauncher is a free Minecraft launcher for Windows and Android: every game version, one-click mods and shaders (Fabric, NeoForge, Quilt, OptiFine), built-in server browser, auto Java setup. No license required.</sub>
 
 <sub>MineLauncher не аффилирован с Mojang Studios и Microsoft. Minecraft является товарным знаком Mojang Synergies AB.</sub>
